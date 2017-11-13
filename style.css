@@ -1,0 +1,13 @@
+@import 'index.css';
+@font-face{
+ font-family: '2Dumb';
+ src: url('fonts/3dumb/2Dumb.ttf');
+}
+@font-face{
+ font-family: '3Dumb';
+ src: url('fonts/3dumb/3Dumb.ttf');
+}
+@font-face{
+	font-family: 'eraser';
+	src: url('fonts/Eraser/EraserRegular.ttf');
+}
